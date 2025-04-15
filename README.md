@@ -1,4 +1,4 @@
-# Faculdade
+# Análise de performance Aldous Broder x Bruteforce || A*
 
 <h3>Analisando os diferentes tempo de resolução seja do algoritmo BruteForce ou A* houve pouca diferença, seja pelo tamanho da grade ou pela baixa resolução do tempo de leitura. </h3>
 
